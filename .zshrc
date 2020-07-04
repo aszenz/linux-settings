@@ -162,3 +162,5 @@ setopt HIST_SAVE_NO_DUPS
 setopt HIST_BEEP
 
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+
+bindkey -v
