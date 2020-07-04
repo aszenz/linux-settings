@@ -1,0 +1,11 @@
+syntax enable
+set expandtab
+set smarttab
+set shiftwidth=2
+set tabstop=2
+set hlsearch
+set ignorecase
+set incsearch
+set smartcase
+set ruler
+set number
