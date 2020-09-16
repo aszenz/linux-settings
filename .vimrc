@@ -1,3 +1,7 @@
+" show line numbers on the left side of vim
+set nu
+" Use the delek colo(r scheme).
+colo delek
 syntax enable
 set expandtab
 set smarttab
